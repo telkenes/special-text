@@ -20,7 +20,8 @@ custom text list:
 
 __code example__
 ```javascript
-
+const stext = require("special-text")
+console.log(stext("hey i like bubbles", "bubble"))
 ```
 
 
