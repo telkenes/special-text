@@ -20,12 +20,10 @@ custom text list:
 
 __code example__
 ```javascript
-const stext = require("special-text")
 
-console.log(stext("hey i like bubbles", "bubble"))
 ```
-hope this package helps you guys 
+
 
 __Extra Information__
 * by telk
-* made for people who are lazy lol
+* i was bored and started making this module

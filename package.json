@@ -1,0 +1,23 @@
+{
+  "name": "special-text",
+  "version": "1.0.0",
+  "description": "a Simple way to generate custom text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telkenes/special-text.git"
+  },
+  "keywords": [
+    "special-text",
+    "text"
+  ],
+  "author": "Telk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telkenes/special-text/issues"
+  },
+  "homepage": "https://github.com/telkenes/special-text#readme"
+}
