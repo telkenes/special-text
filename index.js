@@ -100,7 +100,7 @@ module.exports = function (str, options) {
   var char = "";
   for (var i = 0; i <= length; i++) {
     char = str.charAt(i)
-    newsentence += monospace[char] monospace[char.toLowerCase()] || char
+    newsentence += monospace[char] || monospace[char.toLowerCase()] || char
   }
   return newsentence
 } else if (options === "square") {
