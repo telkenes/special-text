@@ -13,7 +13,7 @@ let ud = require('./text/upside-down.js')
 
 module.exports = function (str, options) {
   options = options.toLowerCase();
-  if (options === "bbubble") {
+  if (options === "black-bubble") {
   var newsentence = "";
   var length = str.length;
   var char = "";
