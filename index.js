@@ -122,6 +122,6 @@ module.exports = function (str, options) {
   }
   return newsentence
 }  else {
-  console.log("Unknown Custom Type of Text")
+  return "Unknown Custom Type of Text"
 }
 }
